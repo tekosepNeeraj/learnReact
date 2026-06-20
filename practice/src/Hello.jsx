@@ -16,7 +16,7 @@ function Hello(){
 
 
     const fruits=["Apple","Banana","Orange"];
-    // console.log("fruits :",fruits);
+
     
         
     return (

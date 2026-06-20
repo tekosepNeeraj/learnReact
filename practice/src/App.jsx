@@ -6,11 +6,10 @@ function App() {
   return (
     <>
       <h1>App Component</h1>
-      <Hello/>
-      <Bye/>
-
+      <Hello />
+      <Bye />
     </>
-  )
+  );
 }
 
 export default App
